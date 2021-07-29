@@ -1,1 +1,5 @@
-
+- Requirements:
+    - openCV 
+    - numpy
+- Use **object_detection_using_deep_learning_and_openCV.ipynb** to run the model. 
+- Object detection using deep learning and openCV.
