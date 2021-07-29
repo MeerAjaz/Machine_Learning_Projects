@@ -1,0 +1,1 @@
+- It contains pretrained model and prototxt file.
