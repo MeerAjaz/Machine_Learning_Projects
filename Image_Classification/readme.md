@@ -1,1 +1,2 @@
-- Image classification on **MNIST** dataset.
+- **image_classification.ipynb** : Image classification on **MNIST** dataset.
+- **Mnist_Fashion_Dataset_Classification.ipynb** : - Image classifacation on **MNIST** fashion dataset.
