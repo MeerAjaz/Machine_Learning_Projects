@@ -1,2 +1,2 @@
-- **image_classification.ipynb** : Image classification on **MNIST** dataset.
-- **Mnist_Fashion_Dataset_Classification.ipynb** : - Image classifacation on **MNIST** fashion dataset.
+- **[Image_Classification.ipynb](https://github.com/MeerAjaz/Machine_Learning_Projects/blob/main/Image_Classification/Image_Classification.ipynb)** :- Image classification on **MNIST** dataset.
+- **[Mnist_Fashion_Dataset_Classification.ipynb](https://github.com/MeerAjaz/Machine_Learning_Projects/blob/main/Image_Classification/Mnist_Fashion_Dataset_Classification.ipynb)** :- Image classifacation on **MNIST** fashion dataset.
